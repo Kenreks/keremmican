@@ -6,11 +6,15 @@
 </h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/keremmican/" target="_blank">Contact Me With Linkedin</a></h2>
 <h5 align="center">
+  
+  
 - :seedling: I’m currently learning Java Spring and other software technologies
 - :dancers: I’m looking to collaborate on development in software
 - :speech_balloon: Ask me about all about software technologies
 - :mailbox: How to reach me: keremmican@gmail.com
+  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=keremmican&show_icons=true&theme=radical)
+  
 <h3 align="left">Languages and Tools that I am learning / have interest:</h3>
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -35,4 +39,5 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  
 </p>
