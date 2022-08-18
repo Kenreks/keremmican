@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kenreks.Kenreks">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=keremmican.keremmican">
 <h1 align="center">
-  <a href="https://github.com/Kenreks">
+  <a href="https://github.com/keremmican">
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 </h1>
@@ -10,8 +10,7 @@
 - :dancers: I’m looking to collaborate on development in software
 - :speech_balloon: Ask me about all about software technologies
 - :mailbox: How to reach me: keremmican@gmail.com
-- :zap: Fun fact: Im addicted to games :smile:
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Kenreks&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=keremmican&show_icons=true&theme=radical)
 <h3 align="left">Languages and Tools that I am learning / have interest:</h3>
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
