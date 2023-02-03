@@ -20,12 +20,9 @@
 
 <p align="center">
   <em>
-    Hello, I am Kerem Mican a <b>2018</b> undergraduate from <a href="https://www.marmara.edu.tr/en"> <b>Marmara University</b>, Turkey Istanbul</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    I graduated from <a href="https://www.marmara.edu.tr/en"> <b>Marmara University</b>, Turkey Istanbul</a>. <b>2023</b> <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;
+  </em>
 </p>
 <br><br>
 
