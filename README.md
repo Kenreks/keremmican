@@ -21,18 +21,16 @@
 <p align="center">
   <em>
     I graduated from <a href="https://www.marmara.edu.tr/en"> <b>Marmara University</b>, Turkey Istanbul</a>. <b>2023</b> <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;
+    <b>a passionate self-learner</b> and a <b>Full Stack Developer</b>&nbsp;
   </em>
 </p>
 
 <hr>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 ✔ I’m currently developing a web app **HTML, CSS, React.js, Java 17, Spring Framework, Docker, Ubuntu Server**<br>
 ✔ I’m currently learning about **DevOps**🥰<br>
 ✔ I’m looking to collaborate with any **Web App Projects**<br>
-<br><br>
+<br>
 
 ## 🛠️ My Skills
 
