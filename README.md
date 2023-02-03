@@ -28,7 +28,7 @@
 <hr>
 
 ✔ I’m currently developing a web app **HTML, CSS, React.js, Java 17, Spring Framework, Docker, Ubuntu Server**<br>
-✔ I’m currently learning about **DevOps**🥰<br>
+✔ I’m currently learning about **DevOps**<br>
 ✔ I’m looking to collaborate with any **Web App Projects**<br>
 <br>
 
@@ -38,12 +38,12 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="" target="_blank"> 
+     <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
    </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="">
+    <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/>
   </a>
 </p>
 
