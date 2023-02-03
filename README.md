@@ -38,11 +38,11 @@
 
 <p align="left"> 
   &emsp;
-  <a href="" target="_blank"> 
+  <a href="https://dev.java" target="_blank"> 
      <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
    </a>
   &emsp;
-  <a href="">
+  <a href="https://www.python.org">
     <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/>
   </a>
 </p>
