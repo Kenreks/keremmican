@@ -82,17 +82,10 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Intellij" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="30" width="40"></a>
+    <a href="#"><img alt="Intellij" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="40" width="40"></a>
   &emsp;
-</p>
-
-<br/>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
-<p align="left">
-  
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
-  
+   <a href="#"><img alt="Webstorm" src="https://seeklogo.com/images/W/webstrom-logo-5E167E5C57-seeklogo.com.png" height="40" width="40"></a>
+  &emsp;
 </p>
   <hr>
 
