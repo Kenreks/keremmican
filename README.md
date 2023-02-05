@@ -82,7 +82,7 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Intellij" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></a>
+    <a href="#"><img alt="Intellij" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="30" width="40"></a>
   &emsp;
 </p>
 
