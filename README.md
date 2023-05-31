@@ -21,7 +21,7 @@
 <p align="center">
   <em>
     I graduated from <a href="https://www.marmara.edu.tr/en"> <b>Marmara University</b>, Turkey Istanbul</a>. <b>2023</b> <br>
-    <b>a passionate self-learner</b> and a <b>Full Stack Developer</b>&nbsp;
+    <b>a passionate self-learner</b> and a <b>Backend Developer</b>&nbsp;
   </em>
 </p>
 
