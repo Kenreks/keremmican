@@ -9,7 +9,7 @@
 </p>
 <hr>
   <h1 align="center">Welcome there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"> Full Stack Developer </h3>
+<h3 align="center"> Java Developer </h3>
 <h4 align="center">1 years of experience in Web Development.</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/keremmican" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="keremmican" height="30" width="40" /></a>
