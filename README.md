@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-brightgreen" />
 </p>
 <hr>
-  <h1 align="center">Welcome there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"> Java Developer </h3>
-<h4 align="center">1 years of experience in Web Development.</h4>
+ 
 <p align="center">
 <a href="https://www.linkedin.com/in/keremmican" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="keremmican" height="30" width="40" /></a>
 <a href="https://leetcode.com/keremmican" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leet_keremmican" height="30" width="40" /></a>
@@ -18,7 +16,6 @@
  <a href = "mailto: keremmican@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keremmican&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
 <hr>
