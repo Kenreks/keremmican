@@ -5,7 +5,7 @@
  <a href = "mailto: keremmican@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keremmican&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keremmican&theme=algolia" alt="dashboard"  /></p>
 
 <hr>
 <p align="center">
